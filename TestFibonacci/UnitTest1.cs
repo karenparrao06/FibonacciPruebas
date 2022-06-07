@@ -1,4 +1,7 @@
+
+using Fibonacci;
 using NUnit.Framework;
+
 
 namespace TestFibonacci
 {
@@ -12,7 +15,9 @@ namespace TestFibonacci
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+            Fibonacci1 fibonacci = new Fibonacci1();
+            var resultado = fibonacci.calcularFibonacci(null);
+            Assert.AreEqual(false,resultado);
         }
     }
 }
