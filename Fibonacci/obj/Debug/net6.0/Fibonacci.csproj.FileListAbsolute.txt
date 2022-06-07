@@ -1,0 +1,15 @@
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\bin\Debug\net6.0\ref\Fibonacci.dll
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+C:\Users\Karen Parrao\source\repos\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache
