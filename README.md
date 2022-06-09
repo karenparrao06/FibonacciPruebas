@@ -13,6 +13,7 @@ Cuando el método no existe.
 
 ![fallo](https://user-images.githubusercontent.com/53060309/172519826-206bfa63-bbe4-4117-a897-176126133053.jpeg)
 
+
 ![no existe](https://user-images.githubusercontent.com/53060309/172519854-16cae389-71f2-48d9-8df0-a247cbdca57e.jpeg)
 
 5. Escribir la implementación.
@@ -24,6 +25,7 @@ Las pruebas escritas fueron:
 * no permite valores superiores a 500.
 
 7. Ejecutar las pruebas automatizadas.
+
 ![automatizadas](https://user-images.githubusercontent.com/53060309/172520651-f4817101-33e6-4558-a8ac-2a071a517c5b.jpeg)
 
 Ejecución/salida.
